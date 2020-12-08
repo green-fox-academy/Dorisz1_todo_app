@@ -1,0 +1,18 @@
+[
+    {
+        "status": "[x]",
+        "todoName": "Tejet venni"
+    },
+    {
+        "status": "[ ]",
+        "todoName": "Megcsinálni a leckét"
+    },
+    {
+        "status": "[ ]",
+        "todoName": "enni zöldséget"
+    },
+    {
+        "status": "[ ]",
+        "todoName": "tanulni"
+    }
+]
